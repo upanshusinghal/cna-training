@@ -1,0 +1,9 @@
+com\ibm\todoapp\configurations\SecurityConfigurations.class
+com\ibm\todoapp\services\ITodoService.class
+com\ibm\todoapp\exceptions\TodoNotFoundException.class
+com\ibm\todoapp\repository\TodoJPARepository.class
+com\ibm\todoapp\services\repository\TodoStaticService.class
+com\ibm\todoapp\TodoappApplication.class
+com\ibm\todoapp\models\Todo.class
+com\ibm\todoapp\controllers\TodoController.class
+com\ibm\todoapp\services\repository\TodoDBService.class
